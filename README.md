@@ -9,7 +9,7 @@ To get started with My API, follow these steps:
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/yourusername/myapi.git
+   git clone https://github.com/galihls_/api_rumahsakit.git
    ```
 
 2. Install the dependencies:
